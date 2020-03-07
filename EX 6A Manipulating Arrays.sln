@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EX 6A Manipulating Arrays", "EX 6A Manipulating Arrays\EX 6A Manipulating Arrays.csproj", "{FF8FE10F-4799-4D56-9944-4BE82388F435}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF8FE10F-4799-4D56-9944-4BE82388F435}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF8FE10F-4799-4D56-9944-4BE82388F435}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF8FE10F-4799-4D56-9944-4BE82388F435}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF8FE10F-4799-4D56-9944-4BE82388F435}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ACAF84D2-9F5C-42CB-8616-E1EE903372E7}
+	EndGlobalSection
+EndGlobal
